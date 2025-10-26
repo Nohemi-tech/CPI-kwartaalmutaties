@@ -1,0 +1,16 @@
+# R- en RStudio-bestanden om te negeren
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.RDataTmp
+*.Rproj.user
+
+# Tijdelijke of oude scripts
+*_old.R
+archive/
+temp/
+
+# Overige ongewenste bestanden
+.DS_Store
+Thumbs.db
